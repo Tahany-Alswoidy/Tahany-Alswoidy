@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahany-alswoidy" alt="tahany-alswoidy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/talswoidy" target="blank"><img src="https://img.shields.io/twitter/follow/TAlswoidy?logo=twitter&style=for-the-badge" alt="talswoidy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TAlswoidy" target="blank"><img src="https://img.shields.io/twitter/follow/TAlswoidy?logo=twitter&style=for-the-badge" alt="TAlswoidy" /></a> </p>
 
 - 🔭 I’m currently working on [ReScrap](https://zen-shaw-4242c2.netlify.app/)
 
