@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tahany</h1>
 <h3 align="center">A passionate computer engineer and frontend developer looking to solve real world problems. I like learning new things and technologies. My dream is to be the best programmer ever.</h3>
 
@@ -7,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahany-alswoidy" alt="tahany-alswoidy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/talswoidy" target="blank"><img src="https://img.shields.io/twitter/follow/talswoidy?logo=twitter&style=for-the-badge" alt="talswoidy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/talswoidy" target="blank"><img src="https://img.shields.io/twitter/follow/TAlswoidy?logo=twitter&style=for-the-badge" alt="talswoidy" /></a> </p>
 
 - 🔭 I’m currently working on [ReScrap](https://zen-shaw-4242c2.netlify.app/)
 
